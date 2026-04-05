@@ -4,10 +4,10 @@ import './App.css'
 
 function App() {
   return (
-    <div className="App">
+    <>
       <Header title="My Simulation" />
       <Footer text="© 2026 My Simulation. All rights reserved." />
-    </div>
+    </>
   );
 }
 
